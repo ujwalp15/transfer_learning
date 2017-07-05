@@ -45,8 +45,8 @@ This repository contains the following two scripts:
 
 Let us first install TensorFlow on our system. Run the following command in terminal to do so.
 
-```
-sudo pip install tensorflow
+```sh
+$sudo pip install tensorflow
 ```
 
 To check if TensorFlow has been successfully installed, run the following code as a python script.
